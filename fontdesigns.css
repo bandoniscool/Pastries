@@ -1,0 +1,62 @@
+p{
+    font-size: 15pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border:10px solid rgb(223, 202, 175);
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(184, 159, 128);
+    width: 75%;
+    margin-top:10px;
+        
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ad946e;
+    
+  }
+  
+.content li {
+    float: none;
+  }
+  
+li{
+  float: left;
+}
+
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    box-shadow: 0 0 25px 0 burlywood
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: #ccbfab;
+  }
+
+  table, th, td {
+    border: 5px solid red;
+    border-collapse: collapse;
+  }
+  td{
+    padding-top: 5px;
+  }
+  
+  nav ul{
+    top: 0px;
+    
+  }
